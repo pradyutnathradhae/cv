@@ -15,3 +15,9 @@ h1{
 h3{
   color: #CA5FA6;
 }
+.main_img{
+  border-width: 10px;
+  border-radius: 25%;
+  border-color: #06dca3;
+  border-style: inset;
+}
